@@ -1,4 +1,4 @@
-# Hardoll Solar Lights ☀️
+# Hardoll Solar Lights
 
 Welcome to the **Hardoll Solar Lights** GitHub profile.
 
@@ -8,7 +8,7 @@ This space brings together practical resources about **solar lighting, outdoor l
 
 Our GitHub repositories focus on useful, structured information rather than product listings alone.
 
-### ☀️ Solar Lighting
+### Solar Lighting
 
 * How solar lighting systems work
 * Solar panel and battery fundamentals
@@ -16,7 +16,7 @@ Our GitHub repositories focus on useful, structured information rather than prod
 * Charging and runtime considerations
 * Installation and maintenance
 
-### 🛣️ Outdoor & Infrastructure Lighting
+### Outdoor & Infrastructure Lighting
 
 * Solar street lighting
 * Solar flood lighting
@@ -26,7 +26,7 @@ Our GitHub repositories focus on useful, structured information rather than prod
 * Motion-sensor lighting
 * Road and outdoor applications
 
-### 🔋 Battery & Energy Resources
+### Battery & Energy Resources
 
 * LiFePO4 batteries
 * Lithium-ion batteries
@@ -34,7 +34,7 @@ Our GitHub repositories focus on useful, structured information rather than prod
 * Solar charging
 * Energy-storage fundamentals
 
-### 💡 Lighting References
+### Lighting References
 
 * Lumens
 * Watts
@@ -44,7 +44,7 @@ Our GitHub repositories focus on useful, structured information rather than prod
 * Motion sensors
 * Dusk-to-dawn operation
 
-### 🧰 Tools & Calculators
+### Tools & Calculators
 
 Over time, this profile will also include small open resources and calculators related to solar lighting, energy use and outdoor lighting.
 
@@ -58,13 +58,13 @@ Founded in 2016, Hardoll is based in Kerala, India.
 
 ## Explore Hardoll
 
-🌐 Website: https://www.hardollenterprises.com/
+Website: https://www.hardollenterprises.com/
 
-☀️ Solar Lights: https://www.hardollenterprises.com/collections/solar-lights
+Solar Lights: https://www.hardollenterprises.com/collections/solar-lights
 
-🌱 Solar Garden Lights: https://www.hardollenterprises.com/collections/solar-garden-lights
+Solar Garden Lights: https://www.hardollenterprises.com/collections/solar-garden-lights
 
-🛣️ Solar Street Lights: https://www.hardollenterprises.com/collections/solar-street-lights
+Solar Street Lights: https://www.hardollenterprises.com/collections/solar-street-lights
 
 ## About this GitHub profile
 
